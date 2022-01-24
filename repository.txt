@@ -1,0 +1,11 @@
+
+
+REPOSITORY:
+
+Strumento per condividere il software(comodo per lo smart working).
+GIT permette la condivisione e la modifica di un progetto (che rimane memorizzata), tipo
+backup.
+E' un cloud di server.
+
+1.GIT BASH HERE sulla cartella
+2.GIT CONFIG
